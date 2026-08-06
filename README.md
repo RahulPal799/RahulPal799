@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have worked with React, Vite, Tailwind CSS, Node.js, Express.js, and have explored technologies like Three.js and Framer Motion for building modern web applications. I also maintain a personal portfolio website and use GitHub to showcase my projects
+Hey! I'm Rahul, a 2nd year CS student from Bhopal.  I love building things — currently working on  full stack development with React, Python,  Flask and SQL.  I've solved 200+ DSA problems on LeetCode and  I'm always looking to improve my problem-solving  skills day by day.
 
 
 ## 🌐 Socials:
