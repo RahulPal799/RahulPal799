@@ -49,13 +49,41 @@ B.Tech CSE Student • Full Stack Developer • AI & ML Enthusiast
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode,postman,linux"/>
-
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
 </p>
+
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+### 📚 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,tensorflow" />
+</p>
+
+</div>
 
 ---
 
