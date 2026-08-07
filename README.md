@@ -131,7 +131,7 @@ React • JavaScript
 
 | Degree | Institution | Timeline | Academic Standing |
 |---------|-------------|----------|------------------|
-| **B.Tech CSE** | OIST, Bhopal | 2024–2028 | Currently in 2nd Year |
+| **B.Tech CSE** | OIST, Bhopal | 2024–2028 | 7.25 Cgpa |
 | **Class XII** | AWHSS (Aryawart Higher Secondary School) | 2023–2024 | **64.1%** |
 | **Class X** | AWHSS (Aryawart Higher Secondary School) | 2021–2022 | **74.1%** |
 
